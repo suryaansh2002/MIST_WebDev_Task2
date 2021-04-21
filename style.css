@@ -64,9 +64,9 @@ label{
 .share{
     margin: 5px;
     border-radius: 50%;
-    box-shadow: 1px 1px grey;
+    box-shadow: 0px 4px 4px #1A171D;
     padding:7px;
-    background-color: #392046;
+    background-color: #1A171D;
     
 }
 
@@ -82,14 +82,14 @@ button{
 }
 
 .create{
-    background-color: #392046;
+    background-color: #1A171D;
     color:#F5F5F5;
     font-size: 20px;
     font-family: bold;
     font-weight: 900;
     padding: 3px 45px;
     border-radius: 20px;
-    box-shadow: 2px 2px grey;
+    box-shadow: 0px 4px 4px #1A171D;
 
     margin-left: calc(100% - 150px);
     margin-top: -45px;
