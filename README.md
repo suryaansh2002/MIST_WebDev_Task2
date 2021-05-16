@@ -1,4 +1,4 @@
-Just made a card to create and add announcements on a site for MIST Manipal.
+Just made a card to create and add announcements on a site for MIST MIT Manipal.
 
 Can download the files and open the index.html file in your browser to check it out.
 
